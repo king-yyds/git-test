@@ -8,5 +8,6 @@ public class gitDEMO {
         System.out.println("斯嘉丽");
         System.out.println("Emory");
         System.out.println("hello Git");
+        System.out.println("Hello SomeBody");
     }
 }
