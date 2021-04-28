@@ -6,5 +6,6 @@ public class gitDEMO {
         System.out.println("linux");
         System.out.println("Yui Gakki");
         System.out.println("斯嘉丽");
+        System.out.println("Emory");
     }
 }
